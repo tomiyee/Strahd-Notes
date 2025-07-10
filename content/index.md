@@ -1,5 +1,7 @@
 ---
 title: Chaotic Nuclear Plays Curse of Strahd
 ---
-# Plans for Next Time
 
+[[E22 - The Date with Viktor]]
+...
+[[E1 - The New Adventurers]]
