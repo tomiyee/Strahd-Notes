@@ -10,7 +10,7 @@ Risodo wants to help [[Stella]] recover from acting like a cat. Since we already
 
 We are greeted by the Baron's butler(?). We come inside to tell the Baron the wine issues have been resolved!
 
-To speak with the Baron's son [[Viktor]], we convince him that [[Evelynn]], someone of high income and status, is trying to date his son. We are successful and we are brought to [[Viktor]]'s workshop in the attic. 
+To speak with the Baron's son [[Viktor]], we convince him that [[Evelyne]], someone of high income and status, is trying to date his son. We are successful and we are brought to [[Viktor]]'s workshop in the attic. 
 
 The entrance to his workshop has a Glyph of Warding on the door in the form of a skull. When we are let inside, we find [[Viktor]] and a mirror into the Ethereal Plane with [[Stella]] inside. 
 
