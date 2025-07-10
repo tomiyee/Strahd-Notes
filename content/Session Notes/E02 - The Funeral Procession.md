@@ -1,6 +1,7 @@
 ---
 date: 2024-01-28
 ---
+
 > [!example] Village of Barovia - Day 2 Evening
 
 We try to claim the dead mother's home, but not officially because we would also be inheriting their rent payments. 

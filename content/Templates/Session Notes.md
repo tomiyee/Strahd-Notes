@@ -2,7 +2,7 @@
 date:
 ---
 
-> [!example] Day number
+> [!example] Location - Day 
 
 
 

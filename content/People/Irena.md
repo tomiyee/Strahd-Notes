@@ -1,2 +1,2 @@
-21 year old daughter of [[Ismark the Greater]], sister of [[Ismark the Lesser]].
+21 year-old [[E03 - The Vistani|adopted]] daughter of [[Ismark the Greater]], sister of [[Ismark the Lesser]].
 Subject of [[Strahd]]'s affection.

@@ -1,1 +1,1 @@
-A poltergeist
+A poltergeist helping [[Stella]] and [[Viktor]]. 
