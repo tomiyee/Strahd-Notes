@@ -14,11 +14,11 @@ To speak with the Baron's son [[Viktor]], we convince him that [[Evelyne]], some
 
 The entrance to his workshop has a Glyph of Warding on the door in the form of a skull. When we are let inside, we find [[Viktor]] and a mirror into the Ethereal Plane with [[Stella]] inside. 
 
-Lore! [[Viktor]] explains that about 10 weeks ago, he and [[Stella]] tried to "leave" and use a spell they found in a book from [[Fiona Vakter]] to teleport out. Instead, it sent [[Stella]]'s soul into the Ethereal plane. She was attacked and her connection to her earthly vessel was severed. Now, she cannot return to her body.
+Lore! [[Viktor]] explains that about 10 weeks ago, he and [[Stella]] tried to "leave" and use a spell they found in a book from [[Fiona Wachter]] to teleport out. Instead, it sent [[Stella]]'s soul into the Ethereal plane. She was attacked and her connection to her earthly vessel was severed. Now, she cannot return to her body.
 
 [[Stella]] was saved by a poltergeist from the Ethereal Plane named [[Eresmus]]. Not all beings in the Ethereal Plane are friendly, and the longer she remains untethered to her body, the less she remembers, like she's fading away.
 
-They also got the book, [[Ethereal Entities - Denizens of the Unseen Realm]] by [[Mordenkainen]], from [[Fiona Vakter]]. It tells of a ritual to fix this, but it must be done on a full moon and we must find a place where the Ethereal Plane and the Material Plane together. There is a full moon in two days. 
+They also got the book, [[Ethereal Entities - Denizens of the Unseen Realm]] by [[Mordenkainen]], from [[Fiona Wachter]]. It tells of a ritual to fix this, but it must be done on a full moon and we must find a place where the Ethereal Plane and the Material Plane together. There is a full moon in two days. 
 
 While exploring the Ethereal plane, Stella blue skin, horns,. wide mouth sharp teeth, near the Barovian Refugee camp?
 
@@ -26,7 +26,7 @@ While exploring the Ethereal plane, Stella blue skin, horns,. wide mouth sharp t
 > Refugees from Barrovia outside the town, near the Vistani Camp, that were 
 
 He loans us the book [[Ethereal Entities - Denizens of the Unseen Realm]]
-[[Fiona Vakter]] had the book because she's enthralled by the incorporeal and ethereal. 
+[[Fiona Wachter]] had the book because she's enthralled by the incorporeal and ethereal. 
 
 
 > [!example] Refugee Camp - 3:00 pm
@@ -46,7 +46,7 @@ Back at the Baron's house, we catch up with [[Viktor]]. He is not happy to hear 
 
 If we try to get it by force, we must prevent the hags from escaping by using the Heartstone to teleport into the Ethereal Plane. To prevent their escape, we need a binding circle. To do damage, we need silvered weapons. 
 
-[[Stella]] says there is a massive binding circle surrounding the Vakter house in the Ethereal Plane. We should ask [[Fiona Vakter|Lady Vakter]] for help in creating the binding circle. 
+[[Stella]] says there is a massive binding circle surrounding the Vakter house in the Ethereal Plane. We should ask [[Fiona Wachter|Lady Vakter]] for help in creating the binding circle. 
 
 > [!example] The Blue Water Inn - 6:00 pm
 

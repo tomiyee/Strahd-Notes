@@ -2,6 +2,11 @@
 date: 2023-11-05
 ---
 
+> [!summary] Summary
+> The party enters Barovia, starting in the Village of Barovia. We meet an old lady selling dream pies. In 
+> The party enters the land of Barovia. In the Village of Barovia, we find that
+
+
 > [!example] Village of Barovia - Day 1 Morning
 
 The party of [[Evelyne]], [[Deathcheater]], [[Boomer]], and [[Risodo]] arrive in the land of Barovia. We encounter a dead commoner that failed to post the Burgomaster [[Ismark]] the Greater's warning to stop people from entering Barovia. 
