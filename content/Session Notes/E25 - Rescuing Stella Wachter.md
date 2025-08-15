@@ -3,7 +3,9 @@ date: 2025-08-13
 ---
 
 > [!summary] Summary
-> .
+> - Enter the Ethereal Plane w the Heartstone
+> - Save [[Stella Wachter]] after fighting off specters and [[Leo Dilisnya]]
+> - Learn a bit more lore about [[Strahd von Zarovich]], like how he killed his brother [[Sergei von Zarovich]] to steal his bride [[Tatiana]]
 
 > [!example] [[Vallaki]] - Day ??
 
