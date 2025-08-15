@@ -9,7 +9,7 @@ date:
 
 > [!example] Location - Day 
 
-[[Viktor]] casts Greater Invisibility.
+[[Victor Vallakovich]] casts Greater Invisibility.
 
 [[Risodo]] and [[Evelyne]] would have died but didn't. 
 

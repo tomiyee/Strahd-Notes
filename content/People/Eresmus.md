@@ -1,1 +1,6 @@
-A poltergeist helping [[Stella]] and [[Viktor]]. 
+
+> [!info] Relations to Other Characters
+> - 
+
+
+A poltergeist helping [[Stella Wachter]] and [[Victor Vallakovich]]. 

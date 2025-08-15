@@ -21,7 +21,7 @@ We stay at [[Blood on the Vine Inn]]. Before bed, [[Evelyne]] tries to buy a Dre
 
 > [!example] Village of Barovia - Day 2 Morning
 
-The next morning, we meet the burgomaster, [[Ismark the Lesser]], son of [[Ismark the Greater]]. His father is dead, and he needs his sister, [[Irena]] escorted to a neighboring town for safety ([[Strahd]] wants her). However, she won't leave until [[Ismark the Greater|her father]] gets a proper burial. 
+The next morning, we meet the burgomaster, [[Ismark the Lesser]], son of [[Ismark the Greater]]. His father is dead, and he needs his sister, [[Irena]] escorted to a neighboring town for safety ([[Strahd von Zarovich]] wants her). However, she won't leave until [[Ismark the Greater|her father]] gets a proper burial. 
 
 They haven't been able to hold the funeral ceremony because the village priest won't leave the church. Risodo and Boomer go to investigate while Evelyne and [[Deathcheater]] go to investigate the house.
 
@@ -39,4 +39,4 @@ They chose not to tell [[Boomer]] or [[Risodo]].
 
 > [!example] Village of Barovia - Day 2 Afternoon
 
-Everyone collects at the church where the priest tells us a story. A wizard said they could fight [[Strahd]] and organized a revolt. [[Strahd]] killed the wizard and turned the priest's son into a vampire. 
+Everyone collects at the church where the priest tells us a story. A wizard said they could fight [[Strahd von Zarovich]] and organized a revolt. [[Strahd von Zarovich]] killed the wizard and turned the priest's son into a vampire. 

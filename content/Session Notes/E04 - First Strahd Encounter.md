@@ -4,15 +4,15 @@ date: 2024-03-03
 
 > [!example] On the Road - Day 3 Afternoon
 
-- We take [[Irena]] to the scer pools. Turns out we cannot climb that.,
-- We turn around to take the other path. We meet [[Strahd]].
-- We shoot him with a silvered crossbow bolt. He did not flinch.,
+The party continues their journey with [[Irena]], heading towards the Svalich Woods. Along the way, they attempt to climb the Svalich Pools but find the path impassable. Forced to turn back, they take an alternate route, where they encounter [[Strahd von Zarovich]] himself.
 
-> [!item] Item: -1 silvered crossbow bolt
+[[Boomer]] fires a silvered crossbow bolt at Strahd, but the vampire lord remains unfazed, showing no sign of injury or concern.
 
-- [[Boomer]] strikes a deal with Strahd. On his "Soldier's Honor" we will simply show Irena Barovia before eventually handing her over to Strahd to rule Barovia together.,
-- A [[Muriel|black raven with blue tipped wings]] comes to the party being chased by evil scare crows. We destroy them
-- Risodo pulls the barbs from the bird and offer it join us. Caw once for yes and twice for no. It caws three times and flies away
+> [!important] Item: -1 silvered crossbow bolt
 
-> [!info]- Plans for Next Time
-> - 
+During the tense meeting, [[Boomer]] strikes a deal with Strahd. On his "Soldier's Honor," the party agrees to show Irena around Barovia before eventually handing her over to Strahd, who intends for her to rule Barovia alongside him.
+
+As the party continues, a [[Muriel|black raven with blue-tipped wings]] approaches them, pursued by a group of sinister scarecrows. The party engages in combat and successfully destroys the scarecrows. After the battle, [[Risodo]] carefully removes the barbs from the injured raven and offers it a chance to join their group. The raven caws three times and flies away, leaving the party to ponder its mysterious behavior.
+
+> [!info] Plans for Next Time
+> - Continue escorting Irena and prepare for further encounters with Strahd's forces.

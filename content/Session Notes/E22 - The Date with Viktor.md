@@ -6,19 +6,19 @@ date: 2025-07-09
 
 We are in the Inn at around 1:00 pm in the afternoon. With not much of an idea on what to do, Risodo suggested we play spin the bottle. [[Risodo]] asks [[Deathcheater]] if she knows how to play. She says you battle the person it points to. 
 
-Risodo wants to help [[Stella]] recover from acting like a cat. Since we already visited and couldn't find anything from there, we went to the Baron's abode to see if we can speak with the son. 
+Risodo wants to help [[Stella Wachter]] recover from acting like a cat. Since we already visited and couldn't find anything from there, we went to the Baron's abode to see if we can speak with the son. 
 
 We are greeted by the Baron's butler(?). We come inside to tell the Baron the wine issues have been resolved!
 
-To speak with the Baron's son [[Viktor]], we convince him that [[Evelyne]], someone of high income and status, is trying to date his son. We are successful and we are brought to [[Viktor]]'s workshop in the attic. 
+To speak with the Baron's son [[Victor Vallakovich]], we convince him that [[Evelyne]], someone of high income and status, is trying to date his son. We are successful and we are brought to [[Victor Vallakovich]]'s workshop in the attic. 
 
-The entrance to his workshop has a Glyph of Warding on the door in the form of a skull. When we are let inside, we find [[Viktor]] and a mirror into the Ethereal Plane with [[Stella]] inside. 
+The entrance to his workshop has a Glyph of Warding on the door in the form of a skull. When we are let inside, we find [[Victor Vallakovich]] and a mirror into the Ethereal Plane with [[Stella Wachter]] inside. 
 
-Lore! [[Viktor]] explains that about 10 weeks ago, he and [[Stella]] tried to "leave" and use a spell they found in a book from [[Fiona Wachter]] to teleport out. Instead, it sent [[Stella]]'s soul into the Ethereal plane. She was attacked and her connection to her earthly vessel was severed. Now, she cannot return to her body.
+Lore! [[Victor Vallakovich]] explains that about 10 weeks ago, he and [[Stella Wachter]] tried to "leave" and use a spell they found in a book from [[Lady Fiona Wachter]] to teleport out. Instead, it sent [[Stella Wachter]]'s soul into the Ethereal plane. She was attacked and her connection to her earthly vessel was severed. Now, she cannot return to her body.
 
-[[Stella]] was saved by a poltergeist from the Ethereal Plane named [[Eresmus]]. Not all beings in the Ethereal Plane are friendly, and the longer she remains untethered to her body, the less she remembers, like she's fading away.
+[[Stella Wachter]] was saved by a poltergeist from the Ethereal Plane named [[Eresmus]]. Not all beings in the Ethereal Plane are friendly, and the longer she remains untethered to her body, the less she remembers, like she's fading away.
 
-They also got the book, [[Ethereal Entities - Denizens of the Unseen Realm]] by [[Mordenkainen]], from [[Fiona Wachter]]. It tells of a ritual to fix this, but it must be done on a full moon and we must find a place where the Ethereal Plane and the Material Plane together. There is a full moon in two days. 
+They also got the book, [[Ethereal Entities - Denizens of the Unseen Realm]] by [[Mordenkainen]], from [[Lady Fiona Wachter]]. It tells of a ritual to fix this, but it must be done on a full moon and we must find a place where the Ethereal Plane and the Material Plane together. There is a full moon in two days. 
 
 While exploring the Ethereal plane, Stella blue skin, horns,. wide mouth sharp teeth, near the Barovian Refugee camp?
 
@@ -26,7 +26,7 @@ While exploring the Ethereal plane, Stella blue skin, horns,. wide mouth sharp t
 > Refugees from Barrovia outside the town, near the Vistani Camp, that were 
 
 He loans us the book [[Ethereal Entities - Denizens of the Unseen Realm]]
-[[Fiona Wachter]] had the book because she's enthralled by the incorporeal and ethereal. 
+[[Lady Fiona Wachter]] had the book because she's enthralled by the incorporeal and ethereal. 
 
 
 > [!example] Refugee Camp - 3:00 pm
@@ -42,11 +42,11 @@ It's a roughly 2.5 hours travel to the windmill.
 
 > [!example] Baron's House - 5:00 pm
 
-Back at the Baron's house, we catch up with [[Viktor]]. He is not happy to hear that there is a full coven of hags, not one hag. We want the Heartstone. To get the Heartstone, we can either bargain at a great price to *borrow* it, or we must get it by force. 
+Back at the Baron's house, we catch up with [[Victor Vallakovich]]. He is not happy to hear that there is a full coven of hags, not one hag. We want the Heartstone. To get the Heartstone, we can either bargain at a great price to *borrow* it, or we must get it by force. 
 
 If we try to get it by force, we must prevent the hags from escaping by using the Heartstone to teleport into the Ethereal Plane. To prevent their escape, we need a binding circle. To do damage, we need silvered weapons. 
 
-[[Stella]] says there is a massive binding circle surrounding the Vakter house in the Ethereal Plane. We should ask [[Fiona Wachter|Lady Vakter]] for help in creating the binding circle. 
+[[Stella Wachter]] says there is a massive binding circle surrounding the Vakter house in the Ethereal Plane. We should ask [[Lady Fiona Wachter|Lady Vakter]] for help in creating the binding circle. 
 
 > [!example] The Blue Water Inn - 6:00 pm
 
