@@ -12,9 +12,9 @@ We go to [[Bildrath's Mercantile]] and we buy a skull and screwdriver for 10 gp.
 
 > [!important] Item: +1 Screwdriver
 
-We spoke with [[Irena]]. She liked to hear stories of Elf Nam from [[Risodo]] and [[Boomer]]. She says the last adventurers they had recruited to escort her didn't even make it to her mansion.
+We spoke with [[Ireena Kolyana]]. She liked to hear stories of Elf Nam from [[Risodo]] and [[Boomer]]. She says the last adventurers they had recruited to escort her didn't even make it to her mansion.
 
-[[Irena]] explains that [[Strahd von Zarovich]] desires her and sent forces after her for three straight weeks. [[Irena]] reveals she got vampire bite marks (assumedly from [[Strahd von Zarovich]]) but has no vampiric symptoms. 
+[[Ireena Kolyana]] explains that [[Strahd von Zarovich]] desires her and sent forces after her for three straight weeks. [[Ireena Kolyana]] reveals she got vampire bite marks (assumedly from [[Strahd von Zarovich]]) but has no vampiric symptoms. 
 
 [[Ismark the Lesser]] points us to a Vistani caravan and names [[Madam Eva]] as a safe person of contact. 
 

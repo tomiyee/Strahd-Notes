@@ -1,1 +1,1 @@
-Dead, former burgomaster of the [[Village of Barovia]]. Father of [[Ismark the Lesser]] and [[Irena]]
+Dead, former burgomaster of the [[Village of Barovia]]. Father of [[Ismark the Lesser]] and [[Ireena Kolyana]]

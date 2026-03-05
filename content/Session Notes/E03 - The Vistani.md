@@ -4,7 +4,7 @@ date: 2024-02-04
 
 > [!example] Village of Barovia - Day 3 Morning
 
-We leave the Village of Barovia with [[Irena]]. On the way we find a thick tree. Inside the tree is a footlocker with 20 silvered crossbow bolts, a light crossbow, two healer's kits, two vials of holy water, and one potion of healing.
+We leave the Village of Barovia with [[Ireena Kolyana]]. On the way we find a thick tree. Inside the tree is a footlocker with 20 silvered crossbow bolts, a light crossbow, two healer's kits, two vials of holy water, and one potion of healing.
 
 > [!important] Items Acquired:
 > +20 Silvered Crossbow Bolts

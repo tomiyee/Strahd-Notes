@@ -4,7 +4,7 @@ date: 2024-03-03
 
 > [!example] On the Road - Day 3 Afternoon
 
-The party continues their journey with [[Irena]], heading towards the Svalich Woods. Along the way, they attempt to climb the Svalich Pools but find the path impassable. Forced to turn back, they take an alternate route, where they encounter [[Strahd von Zarovich]] himself.
+The party continues their journey with [[Ireena Kolyana]], heading towards the Svalich Woods. Along the way, they attempt to climb the Svalich Pools but find the path impassable. Forced to turn back, they take an alternate route, where they encounter [[Strahd von Zarovich]] himself.
 
 [[Boomer]] fires a silvered crossbow bolt at Strahd, but the vampire lord remains unfazed, showing no sign of injury or concern.
 
