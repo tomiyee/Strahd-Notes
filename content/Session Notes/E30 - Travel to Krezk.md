@@ -10,11 +10,11 @@ date: 2026-02-25
 > [!example] Location - Day 1 AF
 
 
-> [!info]- Quest Line 1 - Abbey of St Markovia and Kreshk for Irena
+> [!info] Quest Line 1 - Abbey of St Markovia and Kreshk for Irena
 
-> [!info]- Quest Line 2 - Investigate the Werewolf Den
+> [!info] Quest Line 2 - Investigate the Werewolf Den
 
-> [!info]- Quest Line 3 - [[Zhenya Romanov]] vanished with papers [[Krezk]]
+> [!info] Quest Line 3 - [[Zhenya Romanov]] vanished with papers [[Krezk]]
 
 - [[Strahd von Zarovich]]'s chapter in the journal says he swept through Barovia "Like the wrath of a just god" 
 - Order of a Silver Dragon
@@ -51,13 +51,13 @@ date: 2026-02-25
 - We turn right at Raven River Crossroads. Left takes us to Wizards of Wines
 - A few miles outside of [[Krezk]], we notice that the fog gets denser. Much denser. It pools at our feet and it rises, almost like it's threatening to drown us.
 - [[Risodo]] sees Irena run straight ahead.
-- [[Evelyne]] sees [[Boomer]] run to the right. 
+- [[Evelyne du Westhaven]] sees [[Boomer]] run to the right. 
 - [[Deathcheater]] sees [[Ireena Kolyana]] stop. She reaches out and Ireena turns into something else, and hears a voice saying "You are strong, but are you strong enough to protect yourself."
 - [[Boomer]] hears the sounds of a battlefield. "You have survived wars, but this is not a battlefield you can understand. Time is no longer on your side. Tell me, old soldier. How many winters do you truly have left."
-- [[Evelyne]] sees a vision in the fog, an empty throne in a palace. A man appears in front of her, Strahd himself. "You are powerful, and refined, but you lack determination. Do you fear you will become like me? You will never be like me."
+- [[Evelyne du Westhaven]] sees a vision in the fog, an empty throne in a palace. A man appears in front of her, Strahd himself. "You are powerful, and refined, but you lack determination. Do you fear you will become like me? You will never be like me."
 - [[Risodo]] sees on the ground his own corpse. He feels very real hands rest on his shoulders behind him. [[Strahd von Zarovich]] says "You prayed to your friends, to your god, but they did not answer. You live because I willed it. You shall die when I demand it."
 - The fog dissipates fully and we hear the howls of a pack of wolves. Risodo fails a wisdom save and falls. 
-- [[Evelyne]] summons an illusion of a wolf and Risodo gets so scared he pisses himself. [[Evelyne]] casts prestidigitation 
+- [[Evelyne du Westhaven]] summons an illusion of a wolf and Risodo gets so scared he pisses himself. [[Evelyne du Westhaven]] casts prestidigitation 
 
 > [!info]- Plans for Next Time
 > - 

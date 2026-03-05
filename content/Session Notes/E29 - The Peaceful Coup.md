@@ -14,13 +14,13 @@ date: 2025-12-03
 - [[Boomer]] asks [[Nikolai Wachter]] and [[Karl Wachter]]
 - [[Zhenya Romanov]] recently vanished on her way to [[Krezk]]. She had a ledger of her transactions that [[Vasili von Holtz]] needs for his accounting work. He wants us to verify if she was attacked and to retrieve the ledger.
 - She carried a large purse and one of her guards carried a set of armor that fired magical
-- We fail to convince [[Evelyne]] to join us for Werewolf hunting. 
+- We fail to convince [[Evelyne du Westhaven]] to join us for Werewolf hunting. 
 
 ## Saber-Tooth Tiger Escapes
-- [[Karl Wachter]] and [[Nikolai Wachter]] ask [[Evelyne]] to help with the wagon they shook
+- [[Karl Wachter]] and [[Nikolai Wachter]] ask [[Evelyne du Westhaven]] to help with the wagon they shook
 - Saber-tooth tiger belonging to [[Rictavio]] runs into the Toymaker's store
 - She manages to calm down the Tiger.
-- Rictavio tells [[Evelyne]] farewell and rides off into the distance. 
+- Rictavio tells [[Evelyne du Westhaven]] farewell and rides off into the distance. 
 
 ## Werewolf Hunters
 - Risodo shares story about how his friend [[Desmond Loss]] 

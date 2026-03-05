@@ -76,7 +76,7 @@ Everyone except death cheater
 Deathcheater runs out still holding the tea cup
 
 [[Victor Vallakovich]] tells us the we have 10 minutes
-Viktor casts Mage Armor on [[Evelyne]]
+Viktor casts Mage Armor on [[Evelyne du Westhaven]]
 Viktor will wait to cast counterspell on any dispel magic spell the hags cast. 
 
 > [!info]- Plans for Next Time

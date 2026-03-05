@@ -8,7 +8,7 @@ The party continues their journey and encounters a peculiar rock marked with a t
 
 Eventually, the group arrives at the [[Bonegrinder Mill]], a foreboding windmill. Inside, they discover an old lady and her two daughters working. The party decides to sneak into the building to investigate further.
 
-Outside, they notice a chicken coop and a trunk. [[Ireena Kolyana]] opens the trunk, finding it full of frogs. [[Risodo]] takes one frog, while [[Deathcheater]] takes two. To create a distraction, [[Evelyne]] lures the old lady out of the room by asking for a Dream Pie.
+Outside, they notice a chicken coop and a trunk. [[Ireena Kolyana]] opens the trunk, finding it full of frogs. [[Risodo]] takes one frog, while [[Deathcheater]] takes two. To create a distraction, [[Evelyne du Westhaven]] lures the old lady out of the room by asking for a Dream Pie.
 
 Meanwhile, [[Risodo]] uses his ingenuity to "Simba" [[Ireena Kolyana]], lifting her to unlock the second-floor window. He then silently unlocks the third-floor window. Flying into the second floor, he finds nothing of interest and sets a Fog Cloud spell before moving to the third floor. The daughters descend from the third floor to the second, while the old lady moves to the second floor, ominously declaring, "Time for the next batch."
 

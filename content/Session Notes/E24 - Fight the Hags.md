@@ -11,7 +11,7 @@ date:
 
 [[Victor Vallakovich]] casts Greater Invisibility.
 
-[[Risodo]] and [[Evelyne]] would have died but didn't. 
+[[Risodo]] and [[Evelyne du Westhaven]] would have died but didn't. 
 
 Consumed an AID stone to revive Risodo and Boomer
 

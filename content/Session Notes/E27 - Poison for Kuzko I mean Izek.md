@@ -5,13 +5,13 @@
 - He remembers his fallen comrade [[Desmond Loss]], the Desmond Doss of this world, who swore to do no harm, and his domain changes from Storm to Peace Domain.
 - Get poisoned wine from [[Lady Fiona Wachter]] because we promised to kill [[Izek Strazni]].
 - We know from spying on him that [[Izek Strazni]] receives two bottles of wine from his chef every day and drinks one for lunch and one for dinner. 
-- At 11:00 AM, [[Evelyne]], [[Deathcheater]], [[Risodo]], [[Boomer]] and [[Ireena Kolyana]] go to the house of [[Baron Vargas Vallakovich]] to do distract the chef.
+- At 11:00 AM, [[Evelyne du Westhaven]], [[Deathcheater]], [[Risodo]], [[Boomer]] and [[Ireena Kolyana]] go to the house of [[Baron Vargas Vallakovich]] to do distract the chef.
 - We pick up 5 Wolf Pelts to make a cape later. 
 - [[Ireena Kolyana]] and [[Risodo]] care a roast wolf to the chef. They insult Risodo. 
-- [[Evelyne]] unlatches the window with Mage Hand while Risodo and Deathcheater banter. 
+- [[Evelyne du Westhaven]] unlatches the window with Mage Hand while Risodo and Deathcheater banter. 
 - [[Risodo]] uses Thaumaturgy to make cawing noises outside the window
-- [[Boomer]] uses Humonculus Servant to swap out the wine while [[Evelyne]] apologizes for the party's behavior.
-- [[Evelyne]], [[Deathcheater]], [[Risodo]], and [[Boomer]] leave behind [[Ireena Kolyana]] at the inn and then go stalk [[Izek Strazni]].
+- [[Boomer]] uses Humonculus Servant to swap out the wine while [[Evelyne du Westhaven]] apologizes for the party's behavior.
+- [[Evelyne du Westhaven]], [[Deathcheater]], [[Risodo]], and [[Boomer]] leave behind [[Ireena Kolyana]] at the inn and then go stalk [[Izek Strazni]].
 - He does *not* drink the poisoned wine for lunch. 
 - Then he goes to meet with his spies and informants. They tell him "The girl you've been looking for just arrived at the inn"
 - [[Izek Strazni]] runs to the Inn.
@@ -25,4 +25,4 @@
 - [[Izek Strazni]] pulls out the second bottom of wine (poisoned) and downs half of it immediately, and offers [[Boomer]] posing as fake [[Ireena Kolyana]] wine
 - [[Izek Strazni]] ties and gags [[Boomer]] to sacrifice at the Festival of the Sun for the next day
 - [[Izek Strazni]] takes a third bottle of wine and begins to fall asleep.
-- [[Evelyne]], [[Deathcheater]], [[Risodo]], and [[Ireena Kolyana]] are on the way to rescue him.
+- [[Evelyne du Westhaven]], [[Deathcheater]], [[Risodo]], and [[Ireena Kolyana]] are on the way to rescue him.
