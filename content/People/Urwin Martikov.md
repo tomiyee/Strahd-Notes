@@ -1,0 +1,1 @@
+Owner of [[Blue Water Inn]] in [[Vallaki]]

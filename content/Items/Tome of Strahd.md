@@ -7,3 +7,6 @@ We need to spend 4 Hours of dedicated reading time and succeed a check to deciph
 You can take things out of the book. 
 
 Damage taken in the book are still damage in real world.
+
+
+As of [[E30 - Travel to Krezk]], the person attuned 

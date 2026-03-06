@@ -9,29 +9,26 @@ date: 2026-02-25
 
 > [!example] Location - Day 1 AF
 
-
-> [!info] Quest Line 1 - Abbey of St Markovia and Kreshk for Irena
-
-> [!info] Quest Line 2 - Investigate the Werewolf Den
-
-> [!info] Quest Line 3 - [[Zhenya Romanov]] vanished with papers [[Krezk]]
-
-- [[Strahd von Zarovich]]'s chapter in the journal says he swept through Barovia "Like the wrath of a just god" 
-- Order of a Silver Dragon
-- During this battle, [[Strahd von Zarovich]] incurred an unpayable debt to the [[Vistani]]. The players are soldiers in the siege of the castle. 
-- Commander [[Alek Gwilym]] is standing across from [[Strahd von Zarovich]] in his youth in a war tent.
-- City of [[Zmei]]
-- We go with [[Alek Gwilym]]. A farming village is up in flame. [[Strahd von Zarovich]] sits on top of a flaming mare. 
-- [[Strahd von Zarovich]] got attacked by a spear and fell off his horse. He was recued by [[Vistani]] and was nursed to health. 
-- The [[Order of the Silver Dragon]] fights us. They roll large stones down onto the party
-- We get hit by a boulder
-- [[Alek Gwilym]] meets a [[Godfrey Gwilym]] in the [[Order of the Silver Dragon]] and the guy says "Brother". They clash. [[Godfrey Gwilym]] calls [[Alek Gwilym]] a traitor of the people.
-- [[Argynvost]] is a silver dragon. 
+# Delving into the Journal: Silver Dragon
+- The morning after the festivities, the party reads the next chapter of [[Tome of Strahd]].
+- The scene opens in the middle of [[Strahd von Zarovich]]'s conquest of Barovia and their battle with the [[Order of the Silver Dragon]], during which, [[Strahd von Zarovich]] incurred an unpayable debt to the [[Vistani]]
+- The players are soldiers in the siege of the castle. 
+- Commander [[Alek Gwilym]] and [[Strahd von Zarovich]] lead an attack on the city of [[Zmei]].
+- The farming village is up in flame, [[Strahd von Zarovich]] sits on top of a flaming mare. He's attacked by a spear and falls off his horse. A [[Vistani]] saves her life.
+- We fight with the [[Order of the Silver Dragon]] and fights us. 
+- A trap hits us, [[Risodo]] gets hit by a boulder and loses half their health
+- General [[Alek Gwilym]] meets [[Godfrey Gwilym]] who calls [[Alek Gwilym]] a traitor of the people
+- We witness [[Argynvost]] the silver dragon.
+- After the encounter, 
+## Leaving to [[Krezk]]
+- The party leaves [[Vallaki]] to go to [[Krezk]] for a few reasons:
+  1. On the way there, we need to keep an eye out for [[Zhenya Romanov]], who should 
+  2. At [[Krezk]], we want to drop off [[Ireena Kolyana]] at the [[Abbey of Saint Markovia]]
+  3. From [[Krezk]], we want to investigate the werewolf den. 
 - The person attuned to Unseen servant once per day
-- Martichovs get rations
+- Martichovs give us rations
 - Reminder we can use 4 rations for party long rest and 1 ration for short rest. 
 - Everyone has 2 rations each before heading out
-- We plan to go to 
 ## Random Encounter 1 - 
 - Near [[Argynvostholt]], we notice that there are no birds in the sky, and small wolf tracks on the dirt path for humans. 
 - We see the remains of a carriage in the middle of the road

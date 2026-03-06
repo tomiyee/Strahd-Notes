@@ -1,0 +1,26 @@
+---
+date: 2024-11-01
+---
+# E14 (2024/11/03):
+
+> [!summary] Summary
+> .
+
+
+> [!example] Location - Day 
+
+
+
+- [[Blue Water Inn]] has run out of wine because they've had no deliveries for over a week.
+- Muriel Vinshaw: A woman with a blue streak in hair in her 20s older Irena. Traveling pack, crossbow and sword. Heading to [[Wizard of Wines]] vineyard [[Urwin Martikov]]  (Innkeeper) 
+- +10 Silver Crossbow Bolds, gift from Lord [[Vasili von Holtz]] (the town accountant).
+- The forest folk have partnered w the Children of the Gulthiest Tree, a twisted husk that grows on Yester Hill. 
+- “Be wary of the Blights, who see without eyes and hide among the floor.”
+- The [[Order of the Silver Dragon]], an order founded in [[Argynvostholt]], are enemies of [[Strahd von Zarovich]]. Southeast.
+- Turns out [[Risodo]] went to Vegalia’s Magical Medical College in Harlem.
+- Didn’t graduate due to the draft. The dorm “East House of Westhaven” sponsored by Evelyn’s dad
+- Evelyn came from the Monastery of Balder.
+- We decide to go with Muriel to Wizards of Wine instead of Kresk bc Irena said not to be in bubble
+- Boomer fell into a spike pit trap and the party was swarmed by vine blights.
+- Risodo flies over to drop down a ripe to Boomer. 
+- Risodo gets grappled and falls down into the spike pit

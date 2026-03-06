@@ -5,7 +5,9 @@ date: 2026-03-04
 
 
 > [!summary] Summary
-> .
+> - We reach [[Krezk]] and meet Burgomaster [[Dmitri Krezkov]]
+> - We want to look for his son, [[Ilya Krezkov]], at the werewolf den
+> - We want to look for his son, [[Alana Krezkov]], at the [[Abbey of Saint Markovia]]
 
 
 > [!example] Location - Day 1 AF Evening 
@@ -43,5 +45,8 @@ date: 2026-03-04
 - There was a [[Vistani]] girl named [[Ezmerelda d'Avenir]]. She's the subject of [[Madam Eva]]'s fortune regarding seeking a [[Vistani]] wandering looking for a mentor in [[Abbey of Saint Markovia]]
 - The bell rings at odd times. The place is filled with baleful screams and inhuman laughter. No sane person [[Dmitri Krezkov]] knows goes up there willingly. 
 
+> [!Important] The Party Leveled to 6
+
+
 > [!info]- Plans for Next Time
-> - 
+> - Go to the [[Abbey of Saint Markovia]]
