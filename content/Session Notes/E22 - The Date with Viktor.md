@@ -16,7 +16,7 @@ The entrance to his workshop has a Glyph of Warding on the door in the form of a
 
 Lore! [[Victor Vallakovich]] explains that about 10 weeks ago, he and [[Stella Wachter]] tried to "leave" and use a spell they found in a book from [[Lady Fiona Wachter]] to teleport out. Instead, it sent [[Stella Wachter]]'s soul into the Ethereal plane. She was attacked and her connection to her earthly vessel was severed. Now, she cannot return to her body.
 
-[[Stella Wachter]] was saved by a poltergeist from the Ethereal Plane named [[Eresmus]]. Not all beings in the Ethereal Plane are friendly, and the longer she remains untethered to her body, the less she remembers, like she's fading away.
+[[Stella Wachter]] was saved by a poltergeist from the Ethereal Plane named [[Erasmus van Richten]]. Not all beings in the Ethereal Plane are friendly, and the longer she remains untethered to her body, the less she remembers, like she's fading away.
 
 They also got the book, [[Ethereal Entities - Denizens of the Unseen Realm]] by [[Mordenkainen]], from [[Lady Fiona Wachter]]. It tells of a ritual to fix this, but it must be done on a full moon and we must find a place where the Ethereal Plane and the Material Plane together. There is a full moon in two days. 
 

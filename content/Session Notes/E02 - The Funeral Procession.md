@@ -4,6 +4,8 @@ date: 2024-01-28
 
 > [!example] Village of Barovia - Day 2 Evening
 
+
+
 We try to claim the dead mother's home, but not officially because we would also be inheriting their rent payments. 
 
 We go to [[Bildrath's Mercantile]] and we buy a skull and screwdriver for 10 gp. Bildrath marks the [[Bonegrinder Mill]] on our map. 
