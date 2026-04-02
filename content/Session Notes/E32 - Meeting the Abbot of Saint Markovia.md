@@ -9,16 +9,16 @@ date: 2026-03-25
 
 > [!example] Location - Day 2 AF Morning
 
-- Climb to the [[Abbey of Saint Markovia]].
-- Sleeping guards sleepings at the entrance
-- Chimeras. Told us they were being cured. 
-- The abbot creates life they say. Cures people of their affliction. 
-- Mongrel folk
+
+- The party climb to the [[Abbey of Saint Markovia]].
+- There were two sleeping guards at the entrance. When they wake up, they look like chimeras, but are called Mongrel Folk. They claim that the [[Abbot]] is curing them.
+- The residents of the [[Abbey of Saint Markovia]] claim that the [[Abbot]] creates life and can cure any affliction.
+- They leave the party in a square
 - Mishka is hiding in a well, scratches [[Risodo]] for 3 dmg and bites [[Deathcheater]] for 3 dmg on the harm, hanging there.
 - A door opens and picks up Mishka and lowered to a post and magic chains reach out to bind them to a post. 
 - Traditional monk's garb, [[Abbot]], 
 - [[Boomer]] named for getting blown up from their own munition
-- Visilka is an adult woman in shoddy clothing greets us. She has signs of stitching along her skin. And powdered to look uniform. 
+- [[Visilka]] is an adult woman in shoddy clothing greets us. She has signs of stitching along her skin. And powdered to look uniform. 
 - Bc he believed in the Morning Lord [[Risodo]] suspect is an aspect of Lathander. 
 - At 10 AM he gets up and tends to his congregation
 - He gets turnip soup.
