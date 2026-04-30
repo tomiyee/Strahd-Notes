@@ -1,5 +1,5 @@
 
 > [!info] Relations to Other Characters
-> - Alias of [[Rictavio]].
+> - 
 
-
+His real name is Ithuriel.
